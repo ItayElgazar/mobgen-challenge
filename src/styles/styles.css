@@ -1,0 +1,15 @@
+#app {
+    font: 14px 'arial';
+    color:#488484;
+    min-width:660px;
+    max-width:978px;
+    margin: 0 auto;
+}
+
+a.active {
+    color: orange;
+}
+
+nav {
+    padding-top:15px;
+}

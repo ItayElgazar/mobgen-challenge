@@ -1,0 +1,1 @@
+export default "http://demo0024023.mockable.io/api/users";
